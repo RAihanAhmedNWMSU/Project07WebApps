@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 19, 2015, 1:22:30 PM
+    Author     : Raihan Ahmed Mohammed
+*/
+.newHeading{
+    color: green;
+}
+
+.result{
+  color: black;
+}
+.errorMessage{
+    color : red;
+}
